@@ -1,2 +1,9 @@
 kompilacja g++
 https://courses.cs.washington.edu/courses/cse373/99au/unix/g++.html
+
+forbot o raspberry
+http://forbot.pl/blog/artykuly/programowanie/raspberry-pi-w-robotyce-amatorskiej-3-programowanie-id1274
+
+I2C
+https://oscarliang.com/raspberry-pi-arduino-connected-i2c/
+http://www.raspberry-projects.com/pi/programming-in-c/i2c/using-the-i2c-interface

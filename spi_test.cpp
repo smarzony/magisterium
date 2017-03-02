@@ -128,5 +128,6 @@ int main()
    // clear display again
    buffer[0] = 0x76;
    wiringPiSPIDataRW(CHANNEL, buffer, 1);
+   cout << "Koniec programu\n";
 
 }
