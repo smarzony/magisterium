@@ -1,0 +1,2 @@
+kompilacja g++
+https://courses.cs.washington.edu/courses/cse373/99au/unix/g++.html
