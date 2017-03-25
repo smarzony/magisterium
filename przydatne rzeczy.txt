@@ -7,3 +7,4 @@ http://forbot.pl/blog/artykuly/programowanie/raspberry-pi-w-robotyce-amatorskiej
 I2C
 https://oscarliang.com/raspberry-pi-arduino-connected-i2c/
 http://www.raspberry-projects.com/pi/programming-in-c/i2c/using-the-i2c-interface
+http://avrkwiat.nstrefa.pl/omnie/index.php?option=com_content&view=article&id=246&Itemid=274
